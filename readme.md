@@ -2,7 +2,7 @@
 
 CSV to HTML command line utility
 
-[![NPM](https://nodei.co/npm/csv2html.png)](https://nodei.co/npm/csv2html/)
+[![NPM](http://nodei.co/npm/csv2html.png)](https://nodei.co/npm/csv2html/)
 
 Converts a CSV into a HTML table on the command line.
 
