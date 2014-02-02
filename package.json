@@ -1,0 +1,25 @@
+{
+  "name": "csv2html",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "CSV to HTML command line utility",
+  "author": "max ogden",
+  "license": "BSD",
+  "dependencies": {
+    "binary-csv": "~0.1.6",
+    "data-table": "~0.0.5",
+    "concat-stream": "~1.4.1"
+  },
+  "bin": {
+    "csv2html": "cli.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxogden/csv2html.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxogden/csv2html/issues"
+  },
+  "homepage": "https://github.com/maxogden/csv2html"
+}
