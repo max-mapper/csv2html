@@ -6,6 +6,14 @@ CSV to HTML command line utility
 
 Converts a CSV into a HTML table on the command line.
 
+Turns this:
+
+![before.png]()
+
+Into this:
+
+![after.png]()
+
 ## usage
 
 ```js
