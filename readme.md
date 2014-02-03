@@ -8,11 +8,11 @@ Converts a CSV into a HTML table on the command line.
 
 Turns this:
 
-![before.png]()
+![before.png](before.png)
 
 Into this:
 
-![after.png]()
+![after.png](after.png)
 
 ## usage
 
